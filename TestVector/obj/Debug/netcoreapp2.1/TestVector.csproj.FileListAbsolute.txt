@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\bin\Debug\netcoreapp2.1\TestVector.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\bin\Debug\netcoreapp2.1\TestVector.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\bin\Debug\netcoreapp2.1\TestVector.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\bin\Debug\netcoreapp2.1\TestVector.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\bin\Debug\netcoreapp2.1\TestVector.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\bin\Debug\netcoreapp2.1\VectorManagerLibrary.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\bin\Debug\netcoreapp2.1\VectorManagerLibrary.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\obj\Debug\netcoreapp2.1\TestVector.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\obj\Debug\netcoreapp2.1\TestVector.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\obj\Debug\netcoreapp2.1\TestVector.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\obj\Debug\netcoreapp2.1\TestVector.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\obj\Debug\netcoreapp2.1\TestVector.csproj.CopyComplete
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\obj\Debug\netcoreapp2.1\TestVector.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\TestVector\obj\Debug\netcoreapp2.1\TestVector.pdb
