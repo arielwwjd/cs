@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\VectorManager\bin\Debug\VectorManager.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\VectorManager\bin\Debug\VectorManager.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\VectorManager\bin\Debug\VectorManager.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\VectorManager\bin\Debug\VectorManagerLibrary.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\VectorManager\bin\Debug\VectorManagerLibrary.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\VectorManager\obj\Debug\VectorManager.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\VectorManager\obj\Debug\VectorManager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\VectorManager\obj\Debug\VectorManager.csproj.CopyComplete
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\VectorManager\obj\Debug\VectorManager.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\VectorManager\VectorManager\obj\Debug\VectorManager.pdb
